@@ -79,7 +79,7 @@ chmod +x ./build.sh
    - For rootfull/rootless: any value works
 
 
-## 🚀 Examples
+## Examples
 
 ###  Sideloaded
 ```bash
