@@ -47,7 +47,7 @@ An awesome tweak for Twitter that enhances your experience with additional featu
 | ![](4.png) |
 
 
-## 🛠 Building BHTwitter
+## Building BHTwitter
 
 ###  Local Setup
 
